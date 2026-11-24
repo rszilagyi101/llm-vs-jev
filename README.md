@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1470233755.svg)](https://doi.org/10.5281/zenodo.24503355)
+
 # Local LLM vs Jev-style decisions (classroom demo)
 
 Same local model (Qwen3-8B), two ways to use it, run side by side:
